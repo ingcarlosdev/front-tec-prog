@@ -1,7 +1,4 @@
-# goit-markup-hw-04
-Tarea 4
+Carlos Andres Palacios Mena
 
-Page: 
-https://carlosdevmena.github.io/goit-markup-hw-04/
 
 
